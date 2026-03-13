@@ -1,0 +1,26 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "DC-DC BUCK BOARD",
+        "PN": "FSS 24-121205",
+        "MF": "gk.pcb"
+      },
+      "MID": "MID20345",
+      "MD": "This design was developed by gk.pcb based on the requirement received from Senthil Kumar G (Yogesh Reference)\r\nSpec.\r\nInput: 24V (18-36V) from battery @30A\r\nOutput: 2x 12V(12V_1 @6A max & 12V_2@6A max) & 1x 5V @ 6A max\r\n\r\nAndditionally some relay controls based on requirements. \r\n\r\nNot tested, Yet to receive PCB.",
+      "MT": "Project File",
+      "MQNT": 100,
+      "MCost": 0.0,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20345%2Fmain%2FSchematic_DC-DC-BUCK-Relay-Board_2026-03-13.pdf",
+      "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20345%2Fmain%2FProject-FSS%2024-121205.zip",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20345%2Fmain%2FPCB_PCB_DC-DC-BUCK-Relay-Board_2026-03-13.pdf",
+      "MaterialImages": []
+    }
+  ]
+}
