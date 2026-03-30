@@ -7,7 +7,7 @@
         "MF": "gk.pcb"
       },
       "MID": "MID20345",
-      "MD": "This design was developed by gk.pcb based on the requirement received from Senthil Kumar G (Yogesh Reference)\r\nSpec. \r\nLM63460AASQRYFRQ1 based converter.\r\nInput: 24V (18-36V) from battery @30Ah\r\nOutput: 2x 12V(12V_1 @6A max & 12V_2@6A max) & 1x 5V @ 6A max\r\n\r\nAdditionally some relay controls based on requirements. \r\n\r\nEarned: 5000INR\r\nNot tested, Yet to receive PCB.",
+      "MD": "This design was developed by gk.pcb based on the requirement received from Senthil Kumar G (Yogesh Reference)\r\nSpec. \r\nLM63460AASQRYFRQ1 based converter.\r\nInput: 24V (18-36V) from battery @30Ah\r\nOutput: 2x 12V(12V_1 @6A max & 12V_2@6A max) & 1x 5V @ 6A max\r\n\r\nAdditionally some relay controls based on requirements. \r\n\r\nEarned: 5000INR\r\nPCB Received on 21st Mar 2026. Yet to receive components.",
       "MT": "Project File",
       "MQNT": 0,
       "MCost": 5000.0,
