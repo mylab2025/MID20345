@@ -1,0 +1,10 @@
+{
+  "history": [
+    {
+      "Timestamp": "2026-05-14T12:03:49.4743836+05:30",
+      "User": "8R17B44\\k64121947",
+      "Title": "Design Error in Rev 0.0 (Part-1)",
+      "Note": "1) There is a short in +5V supply & GND at CN12 & F14 section.\r\nCorrective Action:\r\n-> Do not assemble F14 in Rev0.0 PCBA (Temporary Fix)\r\n-> Update Design to Rev0.1 for remove short. (Permanent Fix)"
+    }
+  ]
+}
